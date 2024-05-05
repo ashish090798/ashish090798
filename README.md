@@ -9,7 +9,7 @@
 
 - 💬 Ask me anything about **Machine Learning, Deep Learning, NLP, Generative AI, Data Analytics**
 
-- 📫 How to reach me **datalegion@gmail.com**
+- 📫 How to reach me **datalegions@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
